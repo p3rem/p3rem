@@ -66,6 +66,7 @@ Curious about systems end-to-end — from clean UI to intelligent decision-makin
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/p3rem  
-- LinkedIn: www.linkedin.com/in/prem-prakash-pandey-79679a312  
+- LinkedIn: https://www.linkedin.com/in/prem-prakash-pandey-79679a312
+
 
 Thanks for visiting my profile 🙂
