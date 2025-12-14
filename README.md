@@ -44,6 +44,12 @@ Curious about systems end-to-end — from clean UI to intelligent decision-makin
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
+### **Design & Presentation**
+![Poster Design](https://img.shields.io/badge/Poster%20Design-FF6F00?style=flat)
+![Presentation Design](https://img.shields.io/badge/Presentation%20Design-PowerPoint-DC3E15?style=flat)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
