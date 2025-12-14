@@ -44,7 +44,6 @@ Curious about systems end-to-end — from clean UI to intelligent decision-makin
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -55,7 +54,6 @@ Curious about systems end-to-end — from clean UI to intelligent decision-makin
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p3rem&layout=compact&theme=tokyonight&hide_border=true" height="140"/>
 </p>
-
 
 
 ---
