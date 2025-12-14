@@ -18,19 +18,6 @@ Curious about systems end-to-end — from clean UI to intelligent decision-makin
 
 ---
 
-## 📈 Activity Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=p3rem&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=p3rem&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p3rem&layout=compact&theme=tokyonight&hide_border=true" height="140"/>
-</p>
-
-<!-- STATS-END -->
----
 ## 🛠️ Tech Stack
 
 ### **Programming Languages**
@@ -62,6 +49,20 @@ Curious about systems end-to-end — from clean UI to intelligent decision-makin
 ![Presentation Design](https://img.shields.io/badge/Presentation%20Design-PowerPoint-DC3E15?style=flat)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=p3rem&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=p3rem&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p3rem&layout=compact&theme=tokyonight&hide_border=true" height="140"/>
+</p>
+
+<!-- STATS-END -->
 ---
 
 ## 🎯 Looking For
