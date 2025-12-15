@@ -49,23 +49,24 @@ Curious about systems end-to-end — from clean UI to intelligent decision-makin
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 
 ---
-## 📊 GitHub Stats
 
-<!-- 🔹 Full Dynamic Activity Overview (Metrics Dashboard) -->
-<p align="center">
-  <img src="https://metrics.lecoq.io/p3rem?template=classic&base.activity=1&base.community=1&base.repositories=1&base.metadata=1&activity=1&activity.limit=10&activity.days=14&activity.filter=all&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&stargazers=1&config.timezone=Asia/Kolkata" />
-</p>
+### 📈 Activity Overview
 
-<!-- 🔹 GitHub Stats Card -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=p3rem&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" width="48%" align="left" alt="github stats"/>
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="48%" align="right" alt="github streak"/>
+  </a>
+</div>
+<br><br><br><br><br><br><br>
 
-<!-- 🔹 Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p3rem&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="140"/>
-</p>
-
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&langs_count=6" width="50%" alt="most used languages"/>
+  </a>
+</div>
 ---
 
 ## 🎯 Looking For
