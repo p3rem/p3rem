@@ -49,7 +49,6 @@ Curious about systems end-to-end — from clean UI to intelligent decision-makin
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -61,8 +60,10 @@ Curious about systems end-to-end — from clean UI to intelligent decision-makin
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=p3rem&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=p3rem&theme=tokyonight&hide_border=true" />
+</p>
 ---
-
 ## 🎯 Looking For
 - Internship opportunities (Software / Web / AI-ML)
 - Hackathons & collaborative projects
