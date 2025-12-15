@@ -60,6 +60,7 @@ Curious about systems end-to-end — from clean UI to intelligent decision-makin
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=p3rem&theme=tokyonight" />
 </p>
 ---
+
 ## 🎯 Looking For
 - Internship opportunities (Software / Web / AI-ML)
 - Hackathons & collaborative projects
