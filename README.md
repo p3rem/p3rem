@@ -50,23 +50,17 @@ Curious about systems end-to-end — from clean UI to intelligent decision-makin
 
 ---
 
-### 📈 Activity Overview
+## 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" width="48%" align="left" alt="github stats"/>
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="48%" align="right" alt="github streak"/>
-  </a>
-</div>
-<br><br><br><br><br><br><br>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=p3rem&theme=tokyonight" />
+</p>
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&langs_count=6" width="50%" alt="most used languages"/>
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=p3rem&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=p3rem&theme=tokyonight" />
+</p>
+
 ---
 
 ## 🎯 Looking For
