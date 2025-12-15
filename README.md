@@ -51,18 +51,19 @@ Curious about systems end-to-end — from clean UI to intelligent decision-makin
 ---
 ## 📊 GitHub Stats
 
+<!-- 🔹 Full Dynamic Activity Overview (Metrics Dashboard) -->
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=p3rem&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="165"
-  />
+  <img src="https://metrics.lecoq.io/p3rem?template=classic&base.activity=1&base.community=1&base.repositories=1&base.metadata=1&activity=1&activity.limit=10&activity.days=14&activity.filter=all&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&stargazers=1&config.timezone=Asia/Kolkata" />
 </p>
 
+<!-- 🔹 GitHub Stats Card -->
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=p3rem&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
-    height="140"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=p3rem&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<!-- 🔹 Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p3rem&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="140"/>
 </p>
 
 ---
