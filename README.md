@@ -49,19 +49,22 @@ Curious about systems end-to-end — from clean UI to intelligent decision-makin
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=p3rem&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=p3rem&theme=tokyonight&hide_border=true" height="160"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=p3rem&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" 
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p3rem&layout=compact&theme=tokyonight&hide_border=true" height="140"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=p3rem&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=github-readme-stats" 
+    height="140"
+  />
 </p>
 
-<!-- STATS-END -->
 ---
 
 ## 🎯 Looking For
