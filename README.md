@@ -1,6 +1,6 @@
 # Hi, I'm Prem Pandey 👋
 
-🎓 **3rd Year B.Tech CSE Undergraduate**  
+🎓 **Final Year B.Tech CSE Undergraduate**  
 💻 Web Developer | AI & ML Enthusiast  
 🚀 Hackathon Participant | Creative Designer  
 
